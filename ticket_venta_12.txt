@@ -1,0 +1,16 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 12
+Fecha    : 2025-05-19 03:49:02
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Agua Embotellada Bonafont 1L   1    14.00
+Papel Higiénico Suavel 4pzs   1    28.00
+---------------------------------------
+Subtotal : 42.00
+IVA      : 6.72
+Total    : 48.72
+Pagado   : 50.00
+Cambio   : 1.28
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

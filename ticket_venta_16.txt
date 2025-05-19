@@ -1,0 +1,16 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 16
+Fecha    : 2025-05-19 12:05:13
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Papel Higiénico Suavel 4pzs   1    28.00
+Pan Blanco Bimbo       1    38.00
+---------------------------------------
+Subtotal : 66.00
+IVA      : 10.56
+Total    : 76.56
+Pagado   : 100.00
+Cambio   : 23.44
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

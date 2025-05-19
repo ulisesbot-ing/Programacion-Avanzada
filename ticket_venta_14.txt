@@ -1,0 +1,15 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 14
+Fecha    : 2025-05-19 04:09:47
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Refresco Coca-Cola 600ml   2    36.00
+---------------------------------------
+Subtotal : 36.00
+IVA      : 5.76
+Total    : 41.76
+Pagado   : 50.00
+Cambio   : 8.24
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

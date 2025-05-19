@@ -1,0 +1,17 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 11
+Fecha    : 2025-05-19 03:45:40
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Cajetilla de cigarros Marlboro   1    70.00
+Pan Blanco Bimbo       1    38.00
+Refresco Coca-Cola 600ml   1    18.00
+---------------------------------------
+Subtotal : 126.00
+IVA      : 20.16
+Total    : 146.16
+Pagado   : 150.00
+Cambio   : 3.84
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

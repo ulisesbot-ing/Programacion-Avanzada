@@ -1,0 +1,16 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 7
+Fecha    : 2025-05-19 00:48:52
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Galletas Marías Gamesa   1    12.00
+Papas Sabritas 45g     1    15.00
+---------------------------------------
+Subtotal : 27.00
+IVA      : 4.32
+Total    : 31.32
+Pagado   : 40.00
+Cambio   : 8.68
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

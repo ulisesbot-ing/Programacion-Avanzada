@@ -1,0 +1,15 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 15
+Fecha    : 2025-05-19 04:27:35
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Cajetilla de cigarros Marlboro   1    70.00
+---------------------------------------
+Subtotal : 70.00
+IVA      : 11.20
+Total    : 81.20
+Pagado   : 100.00
+Cambio   : 18.80
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

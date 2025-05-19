@@ -1,0 +1,15 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 13
+Fecha    : 2025-05-19 03:52:06
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Pan Blanco Bimbo       2    76.00
+---------------------------------------
+Subtotal : 76.00
+IVA      : 12.16
+Total    : 88.16
+Pagado   : 200.00
+Cambio   : 111.84
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

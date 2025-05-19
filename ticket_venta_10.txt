@@ -1,0 +1,16 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 10
+Fecha    : 2025-05-19 03:19:24
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Pan Blanco Bimbo       1    38.00
+Agua Embotellada Bonafont 1L   1    14.00
+---------------------------------------
+Subtotal : 52.00
+IVA      : 8.32
+Total    : 60.32
+Pagado   : 70.00
+Cambio   : 9.68
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********

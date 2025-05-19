@@ -1,0 +1,16 @@
+*********** TICKET DE VENTA ***********
+Venta No.: 9
+Fecha    : 2025-05-19 03:14:55
+---------------------------------------
+Producto             Cant Subtotal
+---------------------------------------
+Cajetilla de cigarros Marlboro   1    70.00
+Refresco Coca-Cola 600ml   1    18.00
+---------------------------------------
+Subtotal : 88.00
+IVA      : 14.08
+Total    : 102.08
+Pagado   : 105.00
+Cambio   : 2.92
+********* ¡Gracias por su compra! *********
+*********    ¡Vuelva Prontro!    *********
